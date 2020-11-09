@@ -1,0 +1,35 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+h1 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  margin: 30px auto;
+  width: 400px;
+  background-color: rgba(180, 180, 180, 0.25)
+}
+
+.link {
+  text-align: center;
+  margin: 30px auto;
+  width: 400px;
+  color: rgba(10, 5, 100, 1)
+}
+
+label {
+  font-size: 20px;
+}
